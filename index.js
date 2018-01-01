@@ -19,7 +19,7 @@ return result
 function iLoveTheBeatles(num){
   var result = []
   do{
-    result.push("I Love The Beatles!")
+    result.push("I Love the Beatles!")
     num++
   } while(num < 15)
   return result
